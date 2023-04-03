@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "базы_данных.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,15 +147,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78b6e4a57d9b8367",
+  "active": "f970693fb444b98a",
   "lastOpenFiles": [
+    "README.md",
+    "базы_данных.md",
     "learning",
     "learn",
     "img",
     "img/vmware_75NW1CBVwn.png",
-    "README.md",
     "базы данных.md",
-    "базы_данных.md",
     "Untitled.canvas"
   ]
 }
