@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "базы_данных.md",
-                "mode": "preview",
+                "file": "информационная_безопастность.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "базы_данных.md",
+                "file": "информационная_безопастность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "базы_данных.md",
+                "file": "информационная_безопастность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "базы_данных.md"
+                "file": "информационная_безопастность.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "lastOpenFiles": [
     "README.md",
     "базы_данных.md",
+    "информационная_безопастность.md",
     "learning",
     "learn",
     "img",
