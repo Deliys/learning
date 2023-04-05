@@ -10,3 +10,4 @@
 
 
 ссылка на учебный [one drive](https://sfukrasru-my.sharepoint.com/:f:/g/personal/dmoiseev-ki21_stud_sfu-kras_ru/EnFy-KUMD3NIoyyARUSdMXIBtjuiH1EQwZIP_qkE22nt-g?e=pKiVkT)
+[# Идут🚶🏿 1️⃣0️⃣0️⃣ негров👨🏿 по пустыне 🏜](https://disk.yandex.ru/d/EstGMmZuXgEhng)
