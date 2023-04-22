@@ -6,7 +6,7 @@
 ### 4 семак
 - таблица с ссылками на файлы 
 - лаболаторки  [базы_данных](базы_данных.md)
-- лаболаторки [инфобез](информационная_безопастность)
+- лаболаторки [инфобез](информационная_безопастность.md)
 
 
 ссылка на учебный [one drive](https://sfukrasru-my.sharepoint.com/:f:/g/personal/dmoiseev-ki21_stud_sfu-kras_ru/EnFy-KUMD3NIoyyARUSdMXIBtjuiH1EQwZIP_qkE22nt-g?e=pKiVkT)
